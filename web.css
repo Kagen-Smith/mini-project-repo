@@ -5,10 +5,15 @@
 header {
     text-align: end ;
     background-color:red;
+    position: static;
+    width: 100%;
+    
+
     
 }
 #section-1{
     background-color:blue;
+position:
 }
 
 #section-2{
