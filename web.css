@@ -7,11 +7,14 @@ header {
     background-color:red;
     position: static;
     width: 100%;
-    
-
-    
-}
-#section-1{
+    padding: 20px;
+ }
+    li{
+        display: inline;
+        padding: 20px;
+    }
+  
+    #section-1{
     background-color:blue;
 position:
 }
